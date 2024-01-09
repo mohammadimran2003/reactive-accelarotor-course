@@ -1,4 +1,4 @@
-const productPrice = 500;
+const productPrice = 5000;
 
 function Product() {
     const [quantity, setQuantity] = React.useState(0);
